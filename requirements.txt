@@ -6,3 +6,4 @@ tensorboard
 future
 scipy>=1.6.0
 sklearn
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
