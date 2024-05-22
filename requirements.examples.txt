@@ -1,3 +1,4 @@
 visdom>=0.1.8.8
 paramiko
 boto3
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
